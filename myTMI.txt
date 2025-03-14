@@ -1,1 +1,1 @@
-개발자2 B myTMI.txt
+A B 충돌해결
